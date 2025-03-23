@@ -1,2 +1,2 @@
 1.0.2
-https://qxcharles.github.io/stockCal-updates/StockWinCalculator.exe
+https://github.com/qxcharles/stockCal-updates/releases/download/v1.0.1/StockWinCalulator.exe
